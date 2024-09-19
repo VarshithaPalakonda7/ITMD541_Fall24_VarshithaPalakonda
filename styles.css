@@ -49,11 +49,8 @@ header h1{
     text-align: center;
     color: white;
 }
-footer h4{
+footer h4,p{
     background-color: #9cb6c8;
     text-align: left;
     height: 39px;
-}
-footer p{
-    text-align: right;
 }
