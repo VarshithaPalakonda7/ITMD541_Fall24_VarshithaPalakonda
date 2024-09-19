@@ -51,6 +51,9 @@ header h1{
 }
 footer h4{
     background-color: #9cb6c8;
-    text-align: center;
+    text-align: left;
     height: 39px;
+}
+footer p{
+    text-align: right;
 }
